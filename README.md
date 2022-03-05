@@ -1,3 +1,7 @@
+Prerequisites
+- Apache JMeter installed
+- Newman installed
+
 1. Extract files
 2. To run Postman Tests, open any command line editor, choose directory in which files were extracted and run following commands:
 
